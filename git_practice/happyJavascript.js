@@ -27,4 +27,8 @@ web1
 =======
 let so = 'bad';
 local1;
+<<<<<<< HEAD
 >>>>>>> 2a75e13 (local1)
+=======
+local2;
+>>>>>>> 34a7a25 (local2)
