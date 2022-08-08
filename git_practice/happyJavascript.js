@@ -22,3 +22,4 @@ const yes = 'this is from web 1225';
 const yes = 'haha';
 
 let so = "bad";
+web1
