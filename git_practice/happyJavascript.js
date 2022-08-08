@@ -21,5 +21,10 @@ const yes = 'this is from web 1225';
 const yes = 'this is from web 1225';
 const yes = 'haha';
 
+<<<<<<< HEAD
 let so = "bad";
 web1
+=======
+let so = 'bad';
+local1;
+>>>>>>> 2a75e13 (local1)
